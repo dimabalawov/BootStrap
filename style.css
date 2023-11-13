@@ -1,0 +1,98 @@
+body
+{
+    padding: 3em;
+    padding-top: 2em;
+    padding-left: 15em;
+    padding-right: 10em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo
+{
+    width: 15em;
+    height: 5em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.logo img
+{
+    height: 3.5em;
+    width: 3.5em;
+    margin-right: 1em;
+}
+header
+{
+    height: 5em;
+    width: 100%;
+    display: flex;
+}
+header .btn
+{
+    height: 70%;
+    margin-left: 30em;
+    margin-top: .5em;
+    font-size: 1.5em;
+}
+.profile
+{
+    margin-left: 1.5em;
+    width: auto;
+    height: 5em;
+    color: blue;
+    font-size: 1.5em;
+}
+.profile img
+{
+    font-size: 1em;
+    height: 3.5em;
+    width: 3.5em;
+    margin-right: .5em;
+}
+.search
+{
+    margin-top: 3em;
+    background-color: rgb(204, 229, 255);
+    border: .2em solid lightblue;
+    border-radius: .5em;
+    width: 96%;
+    height: 4.5em;
+}
+.search .btn{
+    margin-top: .8%;
+    font-size: 1.3em;
+    width: 12%;
+    float: right;
+    margin-right: 2%;
+}
+.main-search
+{
+    margin-top: 1.1%;
+    margin-left: 2%;
+    font-size: 1.5em;
+    width: 100em;
+}
+.content
+{
+    display: flex;
+    font-size:1.2em;
+    padding-top: 3em;
+}
+.content img
+{
+    width: 3.8em;
+    margin-right: 2em;
+}
+.bw
+{
+    margin-top: 9em;
+    margin-left: 7em;
+    float: left;
+    margin-right: 11em;
+    height: 10em;
+}
+.bw img
+{
+    width: 7em;
+}
+
+
+
